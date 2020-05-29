@@ -1,0 +1,4 @@
+생성목록 단축키 : [Alt + Insert]
+
+액션 검색 : [Ctrl + Shift + 'A']
+

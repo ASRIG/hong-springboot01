@@ -34,5 +34,6 @@ repositories {
 //      이렇게 관리함으로써, 각 라이브러리들의 버전 관리가 한곳에 집중되고 버전 충돌 문제도 해결되어 간편하게 개발할 수 있다.
 dependencies {
     compile('org.springframework.boot:spring-boot-starter-web')
+    compile('org.projectlombok:lombok')
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }

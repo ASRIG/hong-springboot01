@@ -2,3 +2,8 @@
 
 액션 검색 : [Ctrl + Shift + 'A']
 
+깃 커밋 창 : [Ctrl + 'K']
+
+깃 푸시 창 : [Ctrl + Shift + 'K']
+
+패키지 가져오기 (import) : [Alt + Enter]

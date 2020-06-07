@@ -20,3 +20,8 @@ Get/Set, 생성자 등의 코드 삽입 (생성목록 단축키) : [Alt + Ins]
 신규 파일 생성 : [Ctrl + Alt + Ins]
 
 위의 파일바 종료 : [Ctrl + F4]
+
+gitignore가 정상적으로 처리되지 않는다면? (캐시문제) :
+    git rm -r --cached .
+    git add .
+    git commit -m "fixed untracked files"

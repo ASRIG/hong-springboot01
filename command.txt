@@ -1,4 +1,4 @@
-액션 검색 : [Ctrl + Shift + 'A']
+액션 검색 : [Ctrl + Shift + 'A'] ... plugins
 
 깃 커밋 창 : [Ctrl + 'K']
 
